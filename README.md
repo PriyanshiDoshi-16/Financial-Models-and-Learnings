@@ -6,6 +6,12 @@ This repository documents my practical learning and application across **financi
 
 ## 1. Financial Modelling & Valuation
 
+### Indian Hotel Company
+* Macroeconomic Analysis
+* Industry analysis
+* Fundamental Analysis
+* Financial Modelling and statement Analysis
+
 ### Avenue Supermarts (DMart)
 
 * Consolidated 3-statement financial model
